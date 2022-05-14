@@ -3,7 +3,7 @@
 
 ---
 
-## My Lenguages & Tools:
+## ☁️
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
   <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
