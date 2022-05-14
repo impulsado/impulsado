@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p><img align="right" src="https://github.com/impulsado/impulsado/katana_pc_video.gif" width="500" height="320"/></p>
+<p><img align="center" src="https://github.com/impulsado/impulsado/blob/main/katana_pc_video.gif" width="500" height="320"/></p>
 <!--
 **impulsado/impulsado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
