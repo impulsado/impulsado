@@ -2,6 +2,7 @@
 <p><img align="center" src="https://github.com/impulsado/impulsado/blob/main/katana_pc_video.gif"/></p>
 
 ---
+<br/>
 
 ## Languages and Tools:
 <p>
