@@ -3,6 +3,8 @@
 
 <br/>
 
+
+<!-- TO DO https://dev.to/envoy_/150-badges-for-github-pnk --> 
 <!-- Info -->
 ## Languages and Tools:
 <p>
@@ -13,6 +15,7 @@
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white">
   &nbsp;
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white">
+  &nbsp;
   
   <br/>
   
