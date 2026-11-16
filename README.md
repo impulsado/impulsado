@@ -6,14 +6,3 @@
     width="100%"
   />
 </p>
-
-<!-- Info -->
-<p align="center">
-  Product Engineer &amp; Systems &amp; Networking
-</p>
-
-<p align="center">
-  <a href="https://impulsado.org">Website</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/paubruribes/">LinkedIn</a>
-</p>
